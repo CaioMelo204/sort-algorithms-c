@@ -1,0 +1,3 @@
+C:/Users/caiog/CLionProjects/sort-algorithms/cmake-build-debug/CMakeFiles/sort_algorithms.dir
+C:/Users/caiog/CLionProjects/sort-algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/caiog/CLionProjects/sort-algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

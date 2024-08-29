@@ -1,0 +1,5 @@
+# ninja log v6
+5	155	7466241326800444	CMakeFiles/sort_algorithms.dir/main.c.obj	a6fc5fe2e34115b2
+28	219	7466240065610418	CMakeFiles/sort_algorithms.dir/selection-sort.c.obj	417209b3f82e8abb
+170	328	7466241328462514	sort_algorithms.exe	bd368f69aebc32bf
+33	170	7466241327095791	CMakeFiles/sort_algorithms.dir/insert-sort.c.obj	d2832cd945e7e8c1
